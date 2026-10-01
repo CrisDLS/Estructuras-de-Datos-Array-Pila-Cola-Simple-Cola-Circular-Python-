@@ -1,0 +1,21 @@
+# Bytecode compilado de Python y cachés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración de entornos de desarrollo (por si usas VS Code o PyCharm)
+.vscode/
+.idea/
+
+# Entornos virtuales (útil si más adelante creas uno)
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs o reportes temporales
+*.log
